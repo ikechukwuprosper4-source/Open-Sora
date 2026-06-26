@@ -1,5 +1,4 @@
-[app]
-name = "open-sora-app"
+app = "open-sora-app"
 
 [build]
 builder = "paketobuildpacks/build-oss-heroku:20"
